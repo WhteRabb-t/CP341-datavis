@@ -1,0 +1,35 @@
+country,count,name,name_array
+Unknown,1,Birman,Birman
+Canada,4,American_Bobtail Foldex Javanese Sphynx,"American Bobtail, Foldex, Javanese, Sphynx"
+Malaysia,2,Abyssinian Mekong_Bobtail,"Abyssinian, Mekong Bobtail"
+Vietnam,2,Abyssinian Mekong_Bobtail,"Abyssinian, Mekong Bobtail"
+Cambodia,2,Abyssinian Mekong_Bobtail,"Abyssinian, Mekong Bobtail"
+Indonesia,2,Abyssinian Mekong_Bobtail,"Abyssinian, Mekong Bobtail"
+USA,23,American_Bobtail American_Shorthair American_Wirehair Bambino Bengal_Cats Bombay California_Spangled Chantilly-Tiffany Highlander Javanese Lykoi Maine_Coon Nebelung Oriental_Bicolor Pixie-Bob Ragdoll_Cats Savannah Serengeti Snowshoe Somali Tonkinese Toyger York_Chocolate,"American Bobtail, American Shorthair, American Wirehair, Bambino, Bengal Cats, Bombay, California Spangled, Chantilly-Tiffany, Highlander, Javanese, Lykoi, Maine Coon, Nebelung, Oriental Bicolor, Pixie-Bob, Ragdoll Cats, Savannah, Serengeti, Snowshoe, Somali, Tonkinese, Toyger, York Chocolate"
+Northern_Ireland,2,Cornish_Rex Manx,"Cornish Rex, Manx"
+Kenya,1,Sokoke,Sokoke
+China,1,Japanese_Bobtail,Japanese Bobtail
+Italy,1,European_Shorthair,European Shorthair
+Brazil,1,Brazilian_Shorthair,Brazilian Shorthair
+England,8,Asian British_Longhair British_Shorthair Burmilla Colorpoint_Shorthair Cornish_Rex Devon_Rex Manx,"Asian, British Longhair, British Shorthair, Burmilla, Colorpoint Shorthair, Cornish Rex, Devon Rex, Manx"
+Thailand,6,Abyssinian Burmese Khao_Manee Mekong_Bobtail Siamese_Cat Tonkinese,"Abyssinian, Burmese, Khao Manee, Mekong Bobtail, Siamese Cat, Tonkinese"
+Scotland,6,Asian British_Longhair British_Shorthair Cornish_Rex Manx Scottish_Fold,"Asian, British Longhair, British Shorthair, Cornish Rex, Manx, Scottish Fold"
+Japan,1,Japanese_Bobtail,Japanese Bobtail
+East_Timor,2,Abyssinian Mekong_Bobtail,"Abyssinian, Mekong Bobtail"
+Greece,1,Aegean,Aegean
+Laos,2,Abyssinian Mekong_Bobtail,"Abyssinian, Mekong Bobtail"
+Germany,1,German_Rex,German Rex
+Australia,1,Australian_Mist,Australian Mist
+Brunei,2,Abyssinian Mekong_Bobtail,"Abyssinian, Mekong Bobtail"
+Singapore,3,Abyssinian Mekong_Bobtail Singapura,"Abyssinian, Mekong Bobtail, Singapura"
+Burma,1,Burmese,Burmese
+Egypt,1,Chausie,Chausie
+Iran,1,Persian,Persian
+Cyprus,2,Aphrodite_Giant Cyprus,"Aphrodite Giant, Cyprus"
+Russia,5,Donskoy Peterbald Russian_Blue Siberian Ukrainian_Levkoy,"Donskoy, Peterbald, Russian Blue, Siberian, Ukrainian Levkoy"
+Turkey,2,Turkish_Angora Turkish_Van,"Turkish Angora, Turkish Van"
+Myanmar,2,Abyssinian Mekong_Bobtail,"Abyssinian, Mekong Bobtail"
+Wales,5,Asian British_Longhair British_Shorthair Cornish_Rex Manx,"Asian, British Longhair, British Shorthair, Cornish Rex, Manx"
+Saudi_Arabia,1,Arabian_Mau,Arabian Mau
+Kuril_Islands,1,Kurilian_Bobtail,Kurilian Bobtail
+Philippines,2,Abyssinian Mekong_Bobtail,"Abyssinian, Mekong Bobtail"
